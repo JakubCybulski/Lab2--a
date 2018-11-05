@@ -1,0 +1,8 @@
+@media only screen and (max-width: 800px){
+
+div.drugiAkapit{
+	background-color: green;
+	font-size: 12px;
+	border: 8px solid black;
+}
+}

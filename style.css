@@ -1,0 +1,18 @@
+
+div { text-align: center; }
+        .UMG { font-size: 150%; }
+        #pierwszyAkapit {
+            background-color: Black;
+            color: White;
+            border-style: solid;
+            border-bottom-color: Red;
+            margin:20px;}
+        #drugiAkapit {
+            display: block;
+            background-color: Blue;
+            color: White;
+            font-weight: bold;
+            border-style: dashed; }
+       
+	   
+	   
