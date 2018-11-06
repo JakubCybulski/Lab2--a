@@ -1,0 +1,38 @@
+@media only screen and (max-width: 600px) 
+{
+	body 
+	{
+	background-color: blue;
+	}
+	div#drugiAkapit
+	{
+	background-color: Green;
+	font-size: 40px;
+	border: 8px solid black;
+	}
+	div#pierwszyAkapit
+	{
+	background-color: Yellow;
+	font-size: 40px;
+	border: 8px solid black;
+	}
+}
+
+div { text-align: center; }
+        .UMG { font-size: 150%; }
+        #pierwszyAkapit {
+            background-color: Black;
+            color: White;
+            border-style: solid;
+            border-bottom-color: Red;
+            margin:20px;}
+        #drugiAkapit {
+            display: block;
+            background-color: Blue;
+            color: White;
+            font-weight: bold;
+            border-style: dashed; }
+       
+
+
+	   
